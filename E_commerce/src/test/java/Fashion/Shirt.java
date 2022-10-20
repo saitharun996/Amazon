@@ -8,7 +8,7 @@ public class Shirt {
 		int temp=a;
 		  a=b;
 		 b=temp;
-		System.out.println("The value of A after swapping is "+a);
+		System.out.println(a*b);
 		System.out.println("The value of B after swapping is "+b);
 		
 
